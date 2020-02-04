@@ -1,3 +1,4 @@
+<!-- game strategy  -->
 <?php
 
     if(isset($_POST['User']))
