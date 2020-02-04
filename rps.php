@@ -1,3 +1,4 @@
+<!-- user choice form -->
 <?php
 
       echo '<form action="game.php" method="post" />
