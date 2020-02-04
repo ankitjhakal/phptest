@@ -1,4 +1,4 @@
-
+<!-- enter username form for game -->
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
