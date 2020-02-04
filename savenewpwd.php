@@ -1,3 +1,4 @@
+<!-- validations and update password in database -->
 <?php
 include('connection.php');
 //this is the reset password script
