@@ -1,7 +1,4 @@
 <?php
-
-
-//session start
 // if forgot password is pressed redirect to private question page
 if(isset($_POST['forgotpassword']))
 {
