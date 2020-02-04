@@ -1,6 +1,8 @@
 <?php
 $url = "https://ir-revamp-dev.innoraft-sites.com/jsonapi/node/services";
+// get all the data of url
 $contents = file_get_contents($url);
+// decode the json content 
 $json=json_decode($contents);
 for ($i=0;$i<7;$i++)
 {
